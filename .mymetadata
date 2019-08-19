@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JustPickYou20164206129"
+  id="myeclipse.1561943888087"
+  context-root="/JustPickYou20164206129"
+  j2ee-spec="5.0"
+  archive="JustPickYou20164206129.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
